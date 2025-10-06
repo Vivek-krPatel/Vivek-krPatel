@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**Vivek-krPatel/Vivek-krPatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Student** passionate about technology and software development.
 
-Here are some ideas to get you started:
+## 🚀 Top Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Python**
+- **Java**
+- **Javascript**
+- **HTML**
+- **CSS**
+- **Pandas**
+- **Spring Boot**
+
+## 🌟 Featured Project
+
+### 📚 Fullstack Bookstore Website
+- **Backend:** Java Spring Boot  
+- **Frontend:** HTML, CSS, JavaScript  
+- Developed a complete bookstore application, integrating robust backend APIs with a responsive web frontend.
+
+### Weather APP
+- Developed a weather app using HTML, CSS and Javascript.
+
+## 🎮 Hobbies
+
+- Video gaming
+
+---
+
+Feel free to connect or check out my repositories!
